@@ -1,0 +1,11 @@
+{
+  "name": "apollo-gateway-trial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/gateway": "^2.4.0",
+    "@apollo/server": "^4.5.0"
+  }
+}
